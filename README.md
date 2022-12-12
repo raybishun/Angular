@@ -1,1 +1,1 @@
-# Angular & ASP.NET Core
+# Angular and ASP.NET Core
